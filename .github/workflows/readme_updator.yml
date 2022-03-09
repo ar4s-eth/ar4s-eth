@@ -1,0 +1,18 @@
+name: 'Notion -> Github Readme Updater'
+on: [push]
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: '0 0 * * *' # Runs Every Day
+jobs:
+  update_learn:
+    name: 'Update learn section'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Fetching Repository Contents'
+        uses: actions/checkout@main
+      - name: 'Learn Section Updater'
+        id: learn_section
+        uses: 'devorein/github-readme-learn-section-notion@master'
+        with:
+          database_id: '4a4b4840b044402d8f0d9c483d701606'
+          token_v2: ${{ secrets.NOTION_TOKEN_V2 }} # Required only if your database is private
