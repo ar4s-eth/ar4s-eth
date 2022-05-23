@@ -6,10 +6,21 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
-- 🎯 What I have learned so far
+🍱 What I have learned so far ...
+  - [x] Javascript
+  - [x] PostgreSQL
+  - [ ] RoR
+  - [ ] Ruby
+  - [ ] React Native  
 <!--START_SECTION:learn-->
 <!--END_SECTION:learn-->
-- 🌱 I’m currently learning ... [markdown, Typescript, huggingface, spaCy]
+  - 🪜 I’m currently learning ... 
+  - [ ] Markdown
+  - [ ] Obsidian 
+  - [ ] Typescript 
+  - [ ] huggingface 
+  - [ ] spaCy
+- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... my time at Mt. Gox
