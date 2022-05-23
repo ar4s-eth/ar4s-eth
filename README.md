@@ -37,7 +37,7 @@ Here are some ideas to get you started:-->
 
 🤜🏻 I’m looking to collaborate on 🤛 
   - [ ] [Deus ex machina](https://en.wikipedia.org/wiki/Machine_learning)
-    - [ ] [Proof of Telos]("Proof that the Training Data [which] is CPU/GPU intensive is unique, functional, modular, iterable and ultimately useful") 
+    - [ ] [Proof of Telos]("Proof that Training ML Data which is CPU/GPU intensive is unique, functional, modular, iterable and ultimately useful") 
 
 🤔 I’m looking for help with 💡
   - Jr Dev - All of the above <3
