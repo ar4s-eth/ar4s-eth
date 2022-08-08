@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 🔭 I’m currently working on ... 
-  - [ ] Ethereum Speed Run
+  - [ ] [Ethereum Speed Run](https://speedrunethereum.com/) 
   - [ ] Portfolio Site
     - [ ] .eth
     - [ ] .com
