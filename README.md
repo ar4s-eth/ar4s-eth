@@ -22,7 +22,7 @@ Here are some ideas to get you started:-->
     - [ ] .eth
     - [ ] .com
     - [ ] .dev
-  - [ ] Calvin & Hobbies ESL Curriculum via Anki
+  
       
 🍱 What I have learned so far 🫠
   - [x] Javascript
@@ -39,6 +39,7 @@ Here are some ideas to get you started:-->
 🪜 I’m currently learning 📚 
   - [ ] Obsidian 
      - [ ] Markdown
+  - [ ] Rust
   - [ ] Typescript 
   - [ ] GraphQL
   - [ ] huggingface 
