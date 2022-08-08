@@ -49,9 +49,6 @@ Here are some ideas to get you started:-->
 
   - Jr Dev - All of the above <3
 
-💬 Ask me about ... 
-  - [My time at Mt. Gox](https://lmgtfy.app/#gsc.tab=0&gsc.q=Ashley%20Barr%20Bitcoin&gsc.page=1)
-  
 📫 How to reach me 📨
   - [Gmail](mailto:gh@ar4s.com)
   - [Secure *Proton Mail*](mailto:gh@secure.ar4s.com)
