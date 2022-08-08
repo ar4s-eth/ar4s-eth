@@ -6,7 +6,18 @@
 Here are some ideas to get you started:-->
 
 🔭 I’m currently working on ... 
-  - [ ] [Ethereum Speed Run](https://speedrunethereum.com/) 
+  - [ ] [Ethereum Speed Run](https://speedrunethereum.com/)
+    - [ ] [Challenge 0](https://speedrunethereum.com/challenge/simple-nft-example)
+    - [ ] [Challenge 1](https://speedrunethereum.com/challenge/decentralized-stakin)
+    - [ ] [Challenge 2](https://speedrunethereum.com/challenge/token-vendor)
+    - [ ] [Challenge 3]()
+    - [ ] [Challenge 4]()
+    - [ ] [Challenge 5]()
+    - [ ] [Challenge 6]()
+    - [ ] [Challenge 7]()
+  - [ ] Find a web3 Mentor
+
+   
   - [ ] Portfolio Site
     - [ ] .eth
     - [ ] .com
