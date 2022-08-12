@@ -27,8 +27,8 @@ Here are some ideas to get you started:-->
 🍱 What I have learned so far 🫠
   - [x] Javascript
   - [x] PostgreSQL
-  - [ ] RoR
   - [ ] Ruby
+    - [ ] RoR
   - [ ] React Native
   - [ ] Github
   - [ ] Unix
@@ -54,9 +54,10 @@ Here are some ideas to get you started:-->
  🐙 Socials
   - [Linkedin](https://www.linkedin.com/in/ar4s-eth/)
   - [twitter](https://twitter.com/ar4s)
+  - [reddit](https://www.reddit.com/user/ar4s)
   
 Ƭ̵̬̊ Pronouns 🌈
 | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 | ------- | ------ | --------------------- | ------------------ | --------- |
-| id      | idre   | ids                   | ids                | idself     |
+| id      | idre   | ids                   | ids                | idself    |
  
