@@ -53,7 +53,7 @@ Here are some ideas to get you started:-->
   
  🐙 Socials
   - [Linkedin](https://www.linkedin.com/in/ar4s-eth/)
-  - [twitter](ar4s.eth(Ξ))
+  - [twitter](https://twitter.com/ar4s)
   
 Ƭ̵̬̊ Pronouns 🌈
 | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
