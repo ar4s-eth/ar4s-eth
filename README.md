@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on ... 
+🔭 I’m an (aspiring) Jr. Full Stack Dev, currently working on ... 
   - [ ] [Ethereum Speed Run](https://speedrunethereum.com/)
     - [ ] [Challenge 0](https://speedrunethereum.com/challenge/simple-nft-example)
     - [ ] [Challenge 1](https://speedrunethereum.com/challenge/decentralized-stakin)
@@ -46,8 +46,6 @@ Here are some ideas to get you started:-->
   - [ ] spaCy
   - [ ] Shell (bash/zsh/fish)
   - [ ] dabbling in *nix
-
-  - Jr Dev - All of the above <3
 
 📫 How to reach me 📨
   - [Gmail](mailto:gh@ar4s.com)
