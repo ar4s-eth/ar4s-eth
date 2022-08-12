@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
     - [ ] [Challenge 5]()
     - [ ] [Challenge 6]()
     - [ ] [Challenge 7]()
-  - [ ] Find a web3 Mentor
+  - [ ] Looking for a web3 Mentor (willing to compensate/renumerate)
 
    
   - [ ] Portfolio Site
