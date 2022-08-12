@@ -56,5 +56,5 @@ Here are some ideas to get you started:-->
 Ƭ̵̬̊ Pronouns 🌈
 | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 | ------- | ------ | --------------------- | ------------------ | --------- |
-| id      | idre   | ids                   | ids                | dself     |
+| id      | idre   | ids                   | ids                | idself     |
  
