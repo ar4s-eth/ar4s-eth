@@ -51,6 +51,10 @@ Here are some ideas to get you started:-->
   - [Gmail](mailto:gh@ar4s.com)
   - [Secure *Proton Mail*](mailto:gh@secure.ar4s.com)
   
+ 🐙 Socials
+  - [Linkedin](https://www.linkedin.com/in/ar4s-eth/)
+  - [twitter](ar4s.eth(Ξ))
+  
 Ƭ̵̬̊ Pronouns 🌈
 | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 | ------- | ------ | --------------------- | ------------------ | --------- |
